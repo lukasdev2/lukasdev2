@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lukasdev2
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothin
-- 💞️ I’m looking to collaborate on nothing
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me you cant
 - ⚡ Fun fact: nothing
 
